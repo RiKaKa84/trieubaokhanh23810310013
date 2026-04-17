@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "TrieuBaoKhanh",
+    "slug": "trieubaokhanh",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
